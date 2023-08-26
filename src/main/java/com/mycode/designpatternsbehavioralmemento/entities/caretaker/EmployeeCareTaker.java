@@ -1,4 +1,4 @@
-package com.mycode.designpatternsbehavioralmemento.caretaker;
+package com.mycode.designpatternsbehavioralmemento.entities.caretaker;
 
 import com.mycode.designpatternsbehavioralmemento.entities.Employee;
 import com.mycode.designpatternsbehavioralmemento.entities.Employee.EmployeeMemento;

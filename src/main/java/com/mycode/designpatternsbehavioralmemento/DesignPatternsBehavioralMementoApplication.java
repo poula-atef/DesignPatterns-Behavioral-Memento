@@ -1,6 +1,6 @@
 package com.mycode.designpatternsbehavioralmemento;
 
-import com.mycode.designpatternsbehavioralmemento.caretaker.EmployeeCareTaker;
+import com.mycode.designpatternsbehavioralmemento.entities.caretaker.EmployeeCareTaker;
 import com.mycode.designpatternsbehavioralmemento.entities.Employee;
 
 public class DesignPatternsBehavioralMementoApplication {
